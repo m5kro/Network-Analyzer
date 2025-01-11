@@ -3,7 +3,7 @@ A program that analyzes and categorizes network traffic based on the protocol us
 
 # Get Started
 1. Clone this repo
-2. Install dependencies `python3 -m pip install -r requirements.txt`
+2. Install dependencies `python3 -m pip install -r requirements.txt` and Npcap: https://npcap.com/#download
 3. Run the program `python3 Analyzer.py`
 4. Select a network interface
 5. (optional) Select where to output a pcap file
